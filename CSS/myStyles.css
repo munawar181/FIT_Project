@@ -1,0 +1,41 @@
+body{
+  background-color: #1ABC9C;
+}
+.myContainer{
+  position: relative;
+  left: 20%;
+  width: 63%;
+  height: 500px;
+  padding: 10px;
+}
+.distance{
+  margin-right: 10px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  left:0;
+  padding-top: 5px;
+  width: 100%;
+  height: 60px;
+  background-color: #000;
+}
+.Box{
+  margin-left: 6.5%;
+}
+.Mid{
+  margin-top: 10px;
+  text-align: center;
+}
+.MainButton{
+  background-color: #E5302C;
+  border-radius: 5px;
+  border-color: #E5302C;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 120px;
+}
+.blue{
+  background-color: blue;
+}
